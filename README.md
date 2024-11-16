@@ -1,19 +1,16 @@
 # HR-EMPLOYEE-SQL-ANALYSIS
-A HR Analysis of employees across the organization using SQL for the data cleaning and PowerBI for Visualization.
+A HR Analysis of employees across the organization using SQL for the data cleaning and PowerBI for Visualization(DataSet and Visualizations attached).
 
-![image](https://github.com/user-attachments/assets/e215d0d1-69f5-45ed-913d-cd55dd7152aa)
-
-
-![image](https://github.com/user-attachments/assets/1973facf-de11-4026-957a-75c9bf928db2)
-
-# DATA USED
+## DATA USED
  - HR Data with over 22000 records of employees from the year 2000 to 2020.
-# DATA CLEANING & ANALYSIS
+
+## DATA TOOLS
+### Data Cleaning & Analysis
  - MYSQL Workbench
-# DATA VISUALIZATION
+### Data Visualization
  - PowerBI
 
-# QUESTIONS
+##  EXPLORATORY DATA ANALYSIS(QUESTIONS)
 1. What is the gender breakdown of employees in the company ?
 2. What is the race/ethnicity breakdown of employees in the company ?
 3. What is the age distribution of employees in the company ?
@@ -26,7 +23,7 @@ A HR Analysis of employees across the organization using SQL for the data cleani
 10. How has the company's employee count changed over time based on hire and term dates?
 11. What is the tenure distribution for each department ?
 
-# SUMMARY OF FINDINGS
+## SUMMARY OF FINDINGS
  - There are more males than females in the company, however with a low percentage.
  - White has the highest race distribution in the company with native hawaiin as the lowest.
  - The most employees fall under the bracket "35-44years" while age group "55-64" has the least.
